@@ -4,3 +4,5 @@
 ## Node.js ile Blog Sitesi
 
 Express, Nodemon, Ejs, MongoDB, Mongoose kullanılıp, CRUD işlemleri mevcuttur. MongoDB Atlas bulut veri tabanından faydalanıp Heroku ortamına deployment yapılmıştır. 
+
+https://cleanblog-appl.herokuapp.com/
